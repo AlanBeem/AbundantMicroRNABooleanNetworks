@@ -14,6 +14,7 @@ This is a summer project for the purpose of learning Python.
 
 2. Clean up code comments
 3. Add clarifying comments
+
 FOR 4: USE VERSION CONTROL
 4. Recompose .py and imports as per standard observed during Fall 2024
 
